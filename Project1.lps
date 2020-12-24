@@ -4,16 +4,25 @@
     <PathDelim Value="\"/>
     <Version Value="11"/>
     <BuildModes Active="Default"/>
-    <Units Count="1">
+    <Units Count="2">
       <Unit0>
         <Filename Value="Project1.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="L7"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="27" Y="19"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="50" Y="6"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="27" Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
     </Units>
     <JumpHistory HistoryIndex="-1"/>
     <RunParams>
